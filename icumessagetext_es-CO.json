@@ -1,0 +1,4 @@
+{
+  "icumessage" : "{itemCount, plural, =0 {{itemCount,number} elementos} one {{itemCount,number} elemento} other {{itemCount,number} elementos}}",
+  "regularString" : "esta es una cadena regular"
+}
