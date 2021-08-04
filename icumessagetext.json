@@ -1,0 +1,5 @@
+  
+{
+    "icumessage": "{itemCount, plural,=0 {# items} one {# item} other {# items}}",
+    "regularString": "this is a regular string"
+  }
