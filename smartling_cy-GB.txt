@@ -9,3 +9,5 @@ Rhedeg demo yma. Gobeithio y bydd yn gweithio.
 Diweddariad newydd i gyfieithu un locale yn unig. 
 
 A fydd Mpabbe yn mynd i PSG?
+
+Mae gobeithio bod hyn yn gweithio!
