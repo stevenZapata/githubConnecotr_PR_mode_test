@@ -7,3 +7,5 @@ Making a new update again.
 Running a demo here. Hopefully it works.
 
 New update to only translate one locale. 
+
+Will Mbappe leave PSG?
