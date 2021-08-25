@@ -9,3 +9,5 @@ Running a demo here. Hopefully it works.
 New update to only translate one locale. 
 
 Will Mpabbe go to PSG?
+
+Hoping this works!
