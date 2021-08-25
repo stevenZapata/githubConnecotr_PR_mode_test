@@ -1,0 +1,4 @@
+{
+  "icumessage" : "{itemCount, plural, =0 {{itemCount,number} بنود} zero {{itemCount,number} بنود} one {{itemCount,number} بنود} two {{itemCount,number} بنود} few {{itemCount,number} بنود} many {{itemCount,number} بنود} other {{itemCount,number} بنود}}",
+  "regularString" : "تعد هذه عبارة عادية"
+}

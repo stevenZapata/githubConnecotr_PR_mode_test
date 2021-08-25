@@ -3,3 +3,7 @@ C'est mon dossier sur l'intelligence.
 Nouvelle mise à jour.
 
 Je fais une nouvelle mise à jour. 
+
+Je fais une démo ici. Espérons qu'elle fonctionne.
+
+Nouvelle mise à jour pour ne traduire qu'une seule locale. 
