@@ -15,3 +15,5 @@ Nueva actualización para traducir solo una configuración regional.
 Probando de nuevo!
 
 Casi es otoño. 
+
+Espero que esto funcione de nuevo.
