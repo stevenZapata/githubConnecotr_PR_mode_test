@@ -27,3 +27,5 @@ Today is Tuesday!
 Winder is coming!
 
 This is the pull request mode. 
+
+Winter is already here!
