@@ -1,4 +1,4 @@
-Dies ist meine Smartling-Datei. 
+Dies ist meine Smartling-Dateiiii 
 
 Neues Update.
 
@@ -7,3 +7,25 @@ Wieder ein neues Update machen.
 Hier läuft eine Demo. Hoffentlich funktioniert es.
 
 Neues Update, um nur noch ein Gebietsschema zu übersetzen. 
+
+Wird Mpabbe zu PSG gehen?
+
+Ich hoffe, das funktioniert!
+
+Erneut getestet!
+
+Es ist fast Herbst. 
+
+Hoffentlich funktioniert das wieder.
+
+Drohnen sind das Beste. 
+
+Heute ist Montag. JUHU!
+
+Heute ist Dienstag!
+
+Der Winder kommt!
+
+Dies ist der Pull-Request-Modus. 
+
+Der Winter ist schon da!

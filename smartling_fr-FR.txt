@@ -1,4 +1,4 @@
-C'est mon dossier sur l'intelligence. 
+C'est mon dossier sur l'intelligence test 
 
 Nouvelle mise à jour.
 
@@ -7,3 +7,25 @@ Je fais une nouvelle mise à jour.
 Je fais une démo ici. Espérons qu'elle fonctionne.
 
 Nouvelle mise à jour pour ne traduire qu'une seule locale. 
+
+Mpabbe ira-t-il au PSG ?
+
+J'espère que ça va marcher !
+
+Encore des tests !
+
+C'est presque l'automne. 
+
+J'espère que cela fonctionnera à nouveau.
+
+Les drones sont les meilleurs. 
+
+Aujourd'hui, c'est lundi. HOURRA !
+
+Aujourd'hui, c'est mardi !
+
+Winder arrive !
+
+C'est le mode "pull request". 
+
+L'hiver est déjà là !
