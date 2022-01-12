@@ -27,3 +27,5 @@ Aujourd'hui, c'est mardi !
 Winder arrive !
 
 C'est le mode "pull request". 
+
+L'hiver est déjà là !
