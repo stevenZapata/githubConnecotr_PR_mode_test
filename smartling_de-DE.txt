@@ -27,3 +27,5 @@ Heute ist Dienstag!
 Der Winder kommt!
 
 Dies ist der Pull-Request-Modus. 
+
+Der Winter ist schon da!
