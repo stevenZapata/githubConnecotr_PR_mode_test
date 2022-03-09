@@ -31,3 +31,5 @@ Dies ist der Pull-Request-Modus.
 Der Winter ist schon da!
 
 Ich kann nicht glauben, dass es schon 2022 ist!
+
+Dies ist ein Test für den Anfang. 
