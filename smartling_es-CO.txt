@@ -31,3 +31,5 @@ Este es el modo de solicitud de extracción.
 ¡El invierno ya está aquí!
 
 ¡No puedo creer que sea 2022!
+
+Esta es una prueba para la inicial. 
