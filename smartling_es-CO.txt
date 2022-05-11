@@ -2,39 +2,41 @@ Este es mi archivo de Smartling.
 
 Nueva actualización.
 
-Making a new update again. 
+Haciendo una nueva actualización nuevamente. 
 
-Running a demo here. Hopefully it works.
+Ejecutando una demostración aquí. Ojalá funcione.
 
-New update to only translate one locale. 
+Nueva actualización para traducir solo una configuración regional. 
 
-Will Mpabbe go to PSG?
+¿Mpabbe irá al PSG?
 
-Hoping this works!
+¡Espero que esto funcione!
 
-Testing again!
+Probando de nuevo!
 
-It is almost fall. 
+Casi es otoño. 
 
-Hope this works again.
+Espero que esto funcione de nuevo.
 
-Drones are the best. 
+Los drones son los mejores. 
 
-Today is Monday. YAY!
+Hoy es Lunes. ¡HURRA!
 
-Today is Tuesday!
+¡Hoy es martes!
 
-Winder is coming!
+¡Viene Winder!
 
-This is the pull request mode. 
+Este es el modo de solicitud de extracción. 
 
-Winter is already here!
+¡El invierno ya está aquí!
 
-I cant believe it is 2022!
+¡No puedo creer que sea 2022!
 
-This is a test for initial. 
 
-This is something that I haven't done in awhile. 
+Esto es algo que no he hecho en mucho tiempo. 
 
-¿Que sabes?
+What do you know?
 
+Es casi verano
+
+Es viernes.
