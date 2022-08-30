@@ -41,4 +41,6 @@ C’est presque l’été
 
 C’est vendredi!
 
-Je n’arrive pas à croire que l’été est presque terminé
+Je n’arrive pas à croire que l’été est presque terminé.
+
+Il s’agit d’une branche de test.
