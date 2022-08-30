@@ -1,0 +1,5 @@
+{
+  "icumessage" : "{itemCount, plural, =0 {{itemCount,number} artikuj} one {{itemCount,number} artikull} other {{itemCount,number} artikuj}}",
+  "regularString" : "ky është një varg i rregullt",
+  "test" : "ky është një test json"
+}
