@@ -1,4 +1,5 @@
 {
   "icumessage" : "{itemCount, plural, =0 {{itemCount,number} eitem} zero {{itemCount,number} eitem} one {{itemCount,number} eitem} two {{itemCount,number} eitem} few {{itemCount,number} eitem} many {{itemCount,number} eitem} other {{itemCount,number} eitem}}",
-  "regularString" : "llinyn rheolaidd yw hwn"
+  "regularString" : "llinyn rheolaidd yw hwn",
+  "test" : "prawf json yw hwn"
 }
